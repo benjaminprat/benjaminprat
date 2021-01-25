@@ -1,6 +1,6 @@
 ## Hi, I'm Ben Prat 🤙🏼
 
-[
+
 ![Ben's github stats](https://github-readme-stats.vercel.app/api?username=benjaminprat&theme=onedark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminprat&theme=onedark)](https://github.com/benjaminprat/github-readme-stats)
