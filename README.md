@@ -5,6 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminprat&theme=onedark)](https://github.com/benjaminprat/github-readme-stats)
 
+
  I'm currently a student enrolled in the Full Stack Engineering Program at Wyncode Academy. 
 
   💻    I'm currently sharpening my Javascript skills.
