@@ -8,7 +8,7 @@
 
  I'm currently a student enrolled in the Full Stack Engineering Program at Actualize. 
 
-  💻    I'm currently sharpening my Javascript skills.
+  💻    I'm currently sharpening my Ruby On Rails skills.
 
 ⚡ What I like to do:
   *  Enjoy cooking meals of all cuisine types 🍽
