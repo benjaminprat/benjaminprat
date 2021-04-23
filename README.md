@@ -3,7 +3,7 @@
 
 ![Ben's github stats](https://github-readme-stats.vercel.app/api?username=benjaminprat&theme=onedark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminprat&theme=onedark)](https://github.com/benjaminprat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminprat&langs_count=8&count_private=true&layout=compact&theme=onedark)](https://github.com/benjaminprat/github-readme-stats)
 
 
  I'm currently a student enrolled in the Full Stack Engineering Program at Actualize. 
