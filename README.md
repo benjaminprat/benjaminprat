@@ -6,9 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminprat&langs_count=8&count_private=true&layout=compact&theme=onedark)](https://github.com/benjaminprat/github-readme-stats)
 
 
- I'm currently a student enrolled in the Full Stack Engineering Program at Actualize. 
 
-  💻    I'm currently sharpening my Ruby On Rails skills.
 
 ⚡ What I like to do:
   *  Enjoy cooking meals of all cuisine types 🍽
